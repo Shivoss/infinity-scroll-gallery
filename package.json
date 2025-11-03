@@ -54,6 +54,6 @@
           "vite": "6.3.5"
       },
       "scripts": {
-        "build": "[my-framework] build --output public"
+        "build": "infinity-scroll-gallery build --output public"
   }
   }
